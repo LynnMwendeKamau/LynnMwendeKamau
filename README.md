@@ -1,4 +1,4 @@
-### 👋 Howdy, future code wranglers! I'm Lynn Mwende Kamau, your friendly neighbor from the digital wild west🌵.
+### 👋 Howdy, future code wranglers! I'm your friendly neighbor from the digital wild west🌵.
 
 👩🏾‍💻I'm Lynn Mwende Kamau, a recent Software Engineering graduate based in Nairobi, Kenya📍. Picture me as a coding wizard fresh out of the academic cauldron, armed with a degree and a wand (a.k.a. keyboard), ready to work some programming magic!🧨
 
