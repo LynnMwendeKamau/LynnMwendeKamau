@@ -1,14 +1,15 @@
-### 👋 Howdy, future code wranglers! I'm your friendly neighbor from the digital wild west🌵.
+### Stopping by? 
+### Hi, I'm Lynn Mwende Kamau, a recent Software Engineering graduate based in Nairobi, Kenya📍.
 
-👩🏾‍💻I'm Lynn Mwende Kamau, a recent Software Engineering graduate based in Nairobi, Kenya📍. Picture me as a coding wizard fresh out of the academic cauldron, armed with a degree and a wand (a.k.a. keyboard), ready to work some programming magic!🧨
+👩🏾‍💻 One time in high school, I wrote a script using HTML and used the marquee element, crowned myself a coding wizard🧨. So, I ventured into it in uni only to meet Java and get this, I had to learn physics and statistics too💀 (tough times don't last, I lasted🌵).
 
-🎓 Specializing in Front-End Engineering, I bring a touch of design sorcery and a user-centric approach to every project. But wait, there's more! I'm currently on a quest to master the dark arts of Back-End Engineering because, let's face it, every wizard needs a bit of mystery.
+🎓 I specialize in Front-End Engineering, bringing a keen eye for design and user experience to every project. Eager to expand my horizons, I am currently delving into the intricacies of Back-End Engineering to create holistic solutions.
 
-💡 The magic doesn't stop there – I've decoded the ancient scrolls of Human-Computer Interaction, ensuring that my spells, I mean, websites, are not only functional but also a joy to interact with.
+💡 Courses in Human-Computer Interaction have equipped me with a nuanced understanding of user needs, enabling me to craft intuitive and user-friendly applications. I find joy in the meticulous process of coding and the challenge of debugging, viewing each line as an opportunity for improvement.
 
-💻 When not concocting code, you'll find me stirring up potions in the kitchen, cycling through algorithmic routes, or teleporting to new places because debugging is more fun with a change of scenery.
+🚀 When I'm not immersed in code, find me exploring my culinary skills, pedaling through scenic routes on my bike, or embarking on new adventures through travel. Life, like coding, is a journey of continuous exploration.
 
-🌐 Open to magical collaborations and enchanted learning opportunities. If you're brewing up something exciting, owl me a message or send a carrier pigeon—I'm fluent in magical creatures. 🦉✉️
+📚 Open to collaboration and driven by a commitment to quality, I invite you to connect and explore opportunities for synergistic endeavors. Thank you for considering the prospect of collaboration. Looking forward to the possibility of working together!
 
-Let's embark on this enchanting coding adventure together! ✨🔮
+I just wanted to look cool coding behind my machine wearing a hood in a dark room!✨🔮
 
