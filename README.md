@@ -11,5 +11,5 @@
 
 📚 Open to collaboration and driven by a commitment to quality, I invite you to connect and explore opportunities for synergistic endeavors. Thank you for considering the prospect of collaboration. Looking forward to the possibility of working together!
 
-I just wanted to look cool coding behind my machine wearing a hood in a dark room!✨🔮
+I just wanted to look cool coding behind my backlit laptop wearing a hood in a dark room!✨🔮
 
